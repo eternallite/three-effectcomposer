@@ -1,5 +1,7 @@
 # three-effectcomposer #
 
+Modified: RGBA format (allows postprocessing with transparent textures)
+
 Browserify-friendly version of `THREE.EffectComposer`, which offers a quick
 GLSL post-processing implementation.
 
