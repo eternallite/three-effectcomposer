@@ -1,4 +1,4 @@
-# three-effectcomposer #
+# three-effectcomposer-transparent #
 
 Modified: RGBA format (allows postprocessing with transparent textures)
 
